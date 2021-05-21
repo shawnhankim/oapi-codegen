@@ -21,8 +21,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/deepmap/oapi-codegen/pkg/types"
 	"github.com/labstack/echo/v4"
+	"github.com/shawnhankim/oapi-codegen/pkg/types"
 )
 
 // This function binds a parameter as described in the Path Parameters
